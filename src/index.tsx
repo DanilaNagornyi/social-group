@@ -1,7 +1,7 @@
 import {render} from 'react-dom'
-import Test from "./components/Test";
+import App from "./App";
 
 render (
-  <Test />,
+  <App />,
   document.getElementById('root'),
 )

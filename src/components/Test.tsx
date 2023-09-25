@@ -1,10 +1,10 @@
 import React from 'react';
 import type { FC } from 'react';
-import './Test.scss';
+import s from './Test.module.scss';
 const Test: FC = () => {
   return (
     <div>
-      <button>Button</button>
+      <button className={s.button}>Button</button>
     </div>
   );
 };
