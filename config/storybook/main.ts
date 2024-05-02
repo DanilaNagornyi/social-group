@@ -1,3 +1,8 @@
+// eslint-disable-next-line import/no-import-module-exports
+import { WebpackConfiguration } from 'webpack-cli';
+
+const TsconfigPathsPlugin = require('tsconfig-paths-webpack-plugin');
+
 module.exports = {
     stories: [
         '../../src/**/*.stories.@(js|jsx|ts|tsx)',
@@ -17,5 +22,12 @@ module.exports = {
 
     docs: {
         autodocs: true,
+    },
+    core: {
+        builder: 'webpack5',
+    },
+    webpackFinal: async (config: WebpackConfiguration) => {
+        config.resolve.plugins = [new TsconfigPathsPlugin()];
+        return config;
     },
 };
