@@ -13,7 +13,7 @@ export default {
     },
 } as Meta<typeof ProfilePage>;
 
-const Template: StoryFn<typeof ProfilePage> = (args) => <ProfilePage {...args} />;
+const Template: StoryFn<typeof ProfilePage> = () => <ProfilePage />;
 
 export const Normal = Template.bind({});
 Normal.args = {};

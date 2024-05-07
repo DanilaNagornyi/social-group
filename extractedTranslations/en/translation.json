@@ -7,6 +7,8 @@
   "PROFILE PAGE": "PROFILE PAGE",
   "decrement": "decrement",
   "increment": "increment",
+  "Ваша фамилия": "Ваша фамилия",
+  "Ваше имя": "Ваше имя",
   "Введите username": "Apply username",
   "Введите пароль": "Apply password",
   "Войти": "Entry",
@@ -19,6 +21,8 @@
   "Обновить страницу": "Reload page",
   "Переключить": "Check",
   "Произошла непредвиденная ошибка": "An unexpected error occurred",
+  "Профиль": "Профиль",
+  "Редактировать": "Редактировать",
   "Страницы не найдена": "Page not found",
   "Форма авторизации": "Форма авторизации",
   "Язык": "Language"
