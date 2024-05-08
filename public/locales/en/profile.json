@@ -2,5 +2,14 @@
   "Профиль": "Profile",
   "Редактировать": "Edit",
   "Ваша фамилия": "Your First name",
-  "Ваше имя": "Your Last name"
+  "Ваше имя": "Your Last name",
+  "Отменить": "Cancel",
+  "Сохранить": "Save",
+  "Ваш возраст": "Your age",
+  "Введите ссылку на аватар": "Enter a link to your avatar",
+  "Город": "City",
+  "Укажите валюту": "Specify currency",
+  "Укажите страну": "Please indicate your country",
+  "Попробуйте обновить страницу": "Try refreshing the page",
+  "Введите имя пользователя": "Enter your username"
 }
