@@ -11,5 +11,10 @@
   "Укажите валюту": "Specify currency",
   "Укажите страну": "Please indicate your country",
   "Попробуйте обновить страницу": "Try refreshing the page",
-  "Введите имя пользователя": "Enter your username"
+  "Введите имя пользователя": "Enter your username",
+  "Серверная ошибка при сохранении": "Server error when saving",
+  "Некорректный регион": "Invalid region",
+  "Данные не указаны": "Data not provided",
+  "Имя и фамилия обязательны": "First and last name are required",
+  "Некорректный возраст": "Incorrect age"
 }
