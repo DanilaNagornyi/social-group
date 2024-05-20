@@ -6,10 +6,10 @@ import { validateProfileData } from './validateProfileData';
 const data = {
     username: 'admin',
     age: 22,
-    country: Country.Ukraine,
-    lastname: 'ulbi tv',
-    first: 'asd',
-    city: 'asf',
+    country: Country.Armenia,
+    lastname: 'Dany',
+    first: 'Nagornyi',
+    city: 'Amsterdam',
     currency: Currency.USD,
 };
 
