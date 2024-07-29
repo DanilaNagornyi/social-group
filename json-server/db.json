@@ -118,7 +118,9 @@
       "avatar": "https://pic.rutubelist.ru/user/3b/27/3b2758ad5492a76b578f7ee072e4e894.jpg"
     }
   ],
-  "profile": {
+  "profile": [
+    {
+      "id": "1",
     "first": "Dany",
     "lastname": "Nagornyi",
     "age": 22,
@@ -127,5 +129,17 @@
     "city": "Moscow",
     "username": "admin",
     "avatar": "https://pic.rutubelist.ru/user/3b/27/3b2758ad5492a76b578f7ee072e4e894.jpg"
-  }
+    },
+    {
+      "id": "2",
+      "first": "jgh",
+      "lastname": "asf",
+      "age": 465,
+      "currency": "RUB",
+      "country": "Belarus",
+      "city": "Minsk",
+      "username": "admin213",
+      "avatar": "https://cdn-icons-png.flaticon.com/512/6596/6596121.png"
+    }
+  ]
 }
