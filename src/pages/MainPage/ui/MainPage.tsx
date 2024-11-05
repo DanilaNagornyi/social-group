@@ -1,5 +1,6 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
+import { Page } from 'shared/ui/Page/Page';
 // import { Counter } from 'entities/Counter';
 
 interface MainPageProps {
@@ -9,10 +10,10 @@ const MainPage = ({ className }: MainPageProps) => {
     const { t } = useTranslation('main');
 
     return (
-        <div className={className}>
+        <Page className={className}>
             {t('Главная')}
             {/* <Counter /> */}
-        </div>
+        </Page>
     );
 };
 
